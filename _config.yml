@@ -31,6 +31,9 @@ github:
 twitter:
   username: tulsabytes # change to your twitter username
 
+page_excerpts: true 
+excerpt_separator: <!--more-->
+
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
