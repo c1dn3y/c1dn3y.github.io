@@ -16,7 +16,7 @@ timezone:
 
 title: c1dn3y # the main title
 
-tagline: ...cybersecurity, htb/thm/vulnhub writeups, stuff... # it will display as the sub-title
+tagline: ...cyber security, ctf writeups, stuff... # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   just a place online.
