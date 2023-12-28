@@ -2,7 +2,7 @@
 layout: post
 title:  "Cyber Security News"
 categories: cybersecurity, news
-tags: cybersecurity, news, resources
+tags: cybersecurity news resources
 ---
 
 <H2>Blogs/Websites</H2>

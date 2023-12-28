@@ -2,7 +2,7 @@
 layout: post
 title:  "CTF Resources"
 categories: ctf
-tags: ctf, resources
+tags: ctf resources
 ---
 <H2>CTF Sites</H2>
 <ul>
