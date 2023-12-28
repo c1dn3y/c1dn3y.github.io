@@ -31,8 +31,8 @@ github:
 twitter:
   username: tulsabytes # change to your twitter username
 
-page_excerpts: true 
-excerpt_separator: <!--more-->
+page_excerpts: 
+  excerpt_separator: <!--more-->
 
 social:
   # Change to your full name.
