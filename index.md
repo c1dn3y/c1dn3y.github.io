@@ -1,8 +1,9 @@
 ---
 layout: home
 # Index page
----
 permalink: articles/
+---
+
 
 
 <ul>
