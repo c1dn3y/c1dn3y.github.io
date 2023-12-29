@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "DFIR Resources"
+title:  "Digital Forensics Resources"
 categories: cybersecurity, dfir, blue team
 tags: cybersecurity resources dfir blueteam
 ---
 
-<H2>Mishmash of Blue Team stuff</H2>
+<H2>Mishmash of Digital Forensics stuff</H2>
 <H4>one day i'll organize them</H4>
 <ul>
 <li><A HREF="https://github.com/zweilosec/PowerShell-Administration-Tools">GitHub - zweilosec/PowerShell-Administration-Tools: Powershell scripts for automating common system administration, blue team, and digital forensics tasks</A></li>
