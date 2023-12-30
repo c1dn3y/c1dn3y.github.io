@@ -24,16 +24,6 @@ tags: ctf resources
 <li></li>
 </ul>
 
-<H2>Discord Servers</H2>
-<ul>
-<li>OffSec</li>
-<li>HackTheBox</li>
-<li>TryHackMe</li>
-<li></li>
-<li></li>
-<li></li>
-</ul>
-
 <H2>Other</H2>
 <ul>
 <li></li>
@@ -43,3 +33,5 @@ tags: ctf resources
 <li></li>
 <li></li>
 </ul>
+
+I will update this page as I find resources.
