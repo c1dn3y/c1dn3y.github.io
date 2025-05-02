@@ -1,7 +1,8 @@
 ---
-# the default layout is 'page'
-icon: fas fa-info-circle
-order: 5
+layout: post
+title:  "Hacker Field Manual"
+categories: hfm
+tags: cheatsheet
 ---
 
 ## Information Gathering
